@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+.git/
+.vscode/
+static/uploads/*
+firebase-key.json
+*.pdf
+*.txt

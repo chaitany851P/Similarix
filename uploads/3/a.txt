@@ -1,0 +1,2 @@
+Cloud computing provides on-demand access to computing resources such as servers, storage, and networking. 
+It reduces the need for physical infrastructure and allows users to scale resources efficiently.

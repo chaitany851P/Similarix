@@ -1,0 +1,2 @@
+Cloud computing allows users to access computing services such as storage and servers when required.
+This technology helps reduce physical infrastructure and improves scalability.
